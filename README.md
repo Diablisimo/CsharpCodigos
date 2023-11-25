@@ -1,2 +1,2 @@
 # Csharpcodigos
-Codigos Csharp de mis practicas de estructuras de datos.
+Practicas c# Est. de Datos
